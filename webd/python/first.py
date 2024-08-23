@@ -12,7 +12,7 @@ elif x==3:
 elif x==4:
     print("Name: Arun Mewada\nClass: MBA\n City: Sehore\n Favourite Player: Rohit SHarma")
 elif x==5:
-    print("Name: Deepak Class: \n City: \n Favourite Player: ")
+    print("Name: Deepak Mewada \n Class: BCA\n City: Indore\n Favourite Player: Ronaldo")
 elif x==6:
     print("Name: ANKIT Salvi\nClass: BCA\n City: Udaipur\n Favourite Player: Virat Kohli")
 elif x==7:
